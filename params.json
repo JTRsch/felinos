@@ -1,6 +1,6 @@
 {
   "name": "Felinos",
   "tagline": "",
-  "body": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n  <title>FELINOS</title>\r\n  <meta charset=\"utf-8\" />\r\n\r\n\r\n  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>\r\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"main.css\">\r\n</head>\r\n\r\n<body>\r\n  <header class=\"container\">\r\n    <div class=\"row\">\r\n      <h1 class=\"col-sm-8\">ESPACIO PARA TEXTO</h1>\r\n      <nav class=\"col-sm-4\">\r\n        <p>novedades</p>\r\n        <p>catalogo</p>\r\n        <p>contact</p>\r\n      </nav>\r\n    </div>\r\n  </header>\r\n  <section class=\"jumbotron\">\r\n    <div class=\"container\">\r\n      <div class=\"row text-center\">\r\n        <h2>ESPACIO PARA TEXTO**PRUEBA</h2>\r\n        <h3>This Year's Best</h3>\r\n        <a class=\"btn btn-primary\" href=\"#\">See all</a>\r\n      </div>\r\n    </div>\r\n  </section>\r\n  <section class=\"container\">\r\n    <div class=\"row\">\r\n      <div class=\"col-sm-6\">\r\n        <p>AGUSTO</p>\r\n        <img src=\"http://static.batanga.com/sites/default/files/styles/full/public/curiosidades.batanga.com/files/9-curiosos-e-interesantes-datos-sobre-los-felinos-que-no-debes-perderte-6.jpg?itok=ayk0T2C7\">\r\n      </div>\r\n      <div class=\"col-sm-6\">\r\n        <p>woodwork</p>\r\n        <img src=\"http://k09.kn3.net/taringa/7/4/2/0/0/5/5/spartacus_121/D60.jpg\">\r\n      </div>\r\n",
+  "body": "<",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
